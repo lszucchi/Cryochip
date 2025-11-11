@@ -1,0 +1,288 @@
+# 293.492 K - Measurement 1 - 251110 1514
+
+## Ch 2 DP2
+
+293.492 K - Measurement 1 end . Duration: 0:41
+
+#######################
+
+# 293.492 K - Measurement 2 - 251110 1514
+
+## Ch 2 DP2
+
+293.492 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 293.492 K - Measurement 3 - 251110 1515
+
+## Ch 2 DP2
+
+293.492 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 294.506 K - Measurement 1 - 251110 1541
+
+## Ch 2 DP2
+
+294.506 K - Measurement 1 end . Duration: 0:41
+
+#######################
+
+# 294.506 K - Measurement 2 - 251110 1542
+
+## Ch 2 DP2
+
+294.506 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 294.506 K - Measurement 3 - 251110 1543
+
+## Ch 2 DP2
+
+294.506 K - Measurement 3 end . Duration: 0:41
+
+#######################
+
+# 295.592 K - Measurement 1 - 251110 1632
+
+## Ch 2 DP2
+
+295.592 K - Measurement 1 end . Duration: 0:40
+
+#######################
+
+# 295.592 K - Measurement 2 - 251110 1632
+
+## Ch 2 DP2
+
+295.592 K - Measurement 2 end . Duration: 0:40
+
+#######################
+
+# 295.592 K - Measurement 3 - 251110 1633
+
+## Ch 2 DP2
+
+295.592 K - Measurement 3 end . Duration: 0:41
+
+#######################
+
+# 296.213 K - Measurement 1 - 251110 1721
+
+## Ch 2 DP2
+
+296.213 K - Measurement 1 end . Duration: 0:41
+
+#######################
+
+# 296.213 K - Measurement 2 - 251110 1722
+
+## Ch 2 DP2
+
+296.213 K - Measurement 2 end . Duration: 0:40
+
+#######################
+
+# 296.213 K - Measurement 3 - 251110 1722
+
+## Ch 2 DP2
+
+296.213 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 296.667 K - Measurement 1 - 251110 1810
+
+## Ch 2 DP2
+
+296.667 K - Measurement 1 end . Duration: 0:40
+
+#######################
+
+# 296.667 K - Measurement 2 - 251110 1811
+
+## Ch 2 DP2
+
+296.667 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 296.667 K - Measurement 3 - 251110 1811
+
+## Ch 2 DP2
+
+296.667 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 296.884 K - Measurement 1 - 251110 1858
+
+## Ch 2 DP2
+
+296.884 K - Measurement 1 end . Duration: 0:40
+
+#######################
+
+# 296.884 K - Measurement 2 - 251110 1859
+
+## Ch 2 DP2
+
+296.884 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 296.884 K - Measurement 3 - 251110 1900
+
+## Ch 2 DP2
+
+296.884 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 297.023 K - Measurement 1 - 251110 1947
+
+## Ch 2 DP2
+
+297.023 K - Measurement 1 end . Duration: 0:41
+
+#######################
+
+# 297.023 K - Measurement 2 - 251110 1947
+
+## Ch 2 DP2
+
+297.023 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 297.023 K - Measurement 3 - 251110 1948
+
+## Ch 2 DP2
+
+297.023 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 297.169 K - Measurement 1 - 251110 2035
+
+## Ch 2 DP2
+
+297.169 K - Measurement 1 end . Duration: 0:40
+
+#######################
+
+# 297.169 K - Measurement 2 - 251110 2036
+
+## Ch 2 DP2
+
+297.169 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 297.169 K - Measurement 3 - 251110 2036
+
+## Ch 2 DP2
+
+297.169 K - Measurement 3 end . Duration: 0:41
+
+#######################
+
+# 296.891 K - Measurement 1 - 251110 2123
+
+## Ch 2 DP2
+
+296.891 K - Measurement 1 end . Duration: 0:40
+
+#######################
+
+# 296.891 K - Measurement 2 - 251110 2124
+
+## Ch 2 DP2
+
+296.891 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 296.891 K - Measurement 3 - 251110 2125
+
+## Ch 2 DP2
+
+296.891 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 296.896 K - Measurement 1 - 251110 2211
+
+## Ch 2 DP2
+
+296.896 K - Measurement 1 end . Duration: 0:41
+
+#######################
+
+# 296.896 K - Measurement 2 - 251110 2212
+
+## Ch 2 DP2
+
+296.896 K - Measurement 2 end . Duration: 0:41
+
+#######################
+
+# 296.896 K - Measurement 3 - 251110 2213
+
+## Ch 2 DP2
+
+296.896 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 296.89 K - Measurement 1 - 251110 2300
+
+## Ch 2 DP2
+
+296.89 K - Measurement 1 end . Duration: 0:40
+
+#######################
+
+# 296.89 K - Measurement 2 - 251110 2300
+
+## Ch 2 DP2
+
+296.89 K - Measurement 2 end . Duration: 0:40
+
+#######################
+
+# 296.89 K - Measurement 3 - 251110 2301
+
+## Ch 2 DP2
+
+296.89 K - Measurement 3 end . Duration: 0:40
+
+#######################
+
+# 296.852 K - Measurement 1 - 251110 2348
+
+## Ch 2 DP2
+
+296.852 K - Measurement 1 end . Duration: 0:41
+
+#######################
+
+# 296.852 K - Measurement 2 - 251110 2349
+
+## Ch 2 DP2
+
+296.852 K - Measurement 2 end . Duration: 0:40
+
+#######################
+
+# 296.852 K - Measurement 3 - 251110 2349
+
+## Ch 2 DP2
+
+296.852 K - Measurement 3 end . Duration: 0:41
+
+#######################
+
