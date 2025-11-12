@@ -1,24 +1,24 @@
-#  Measurement 1 - 286.942 - 251110 1245
+#  Measurement 1 - 296.657 - 251111 1534
 
 ## Ch 2 DP2
 
-Measurement 1 end - 286.956. Duration: 0:59
+Measurement 1 end - 296.664. Duration: 0:59
 
 #######################
 
-#  Measurement 2 - 286.976 - 251110 1247
+#  Measurement 2 - 296.655 - 251111 1536
 
 ## Ch 2 DP2
 
-Measurement 2 end - 287.013. Duration: 0:59
+Measurement 2 end - 296.66. Duration: 0:59
 
 #######################
 
-#  Measurement 3 - 287.019 - 251110 1249
+#  Measurement 3 - 296.634 - 251111 1538
 
 ## Ch 2 DP2
 
-Measurement 3 end - 287.025. Duration: 0:59
+Measurement 3 end - 296.645. Duration: 0:59
 
 #######################
 
