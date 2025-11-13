@@ -1,0 +1,27 @@
+# 4.50736 K - Measurement 1 - 251112 1706
+
+## Ch 2 DP2
+# 4.4988 K - Measurement 1 - 251112 1707
+
+## Ch 2 DP2
+
+4.4988 K - Measurement 1 end . Duration: 0:42
+
+#######################
+
+# 4.45146 K - Measurement 1 - 251112 1711
+
+## Ch 2 DP2
+
+4.45146 K - Measurement 1 end . Duration: 0:43
+
+#######################
+
+# 4.45146 K - Measurement 2 - 251112 1741
+
+## Ch 2 DP2
+
+4.45146 K - Measurement 2 end . Duration: 0:48
+
+#######################
+
